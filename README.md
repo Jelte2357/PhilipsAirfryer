@@ -15,9 +15,9 @@ airfryer.py can be copied over to home assistant to use with your airfryer.
     allow_all_imports: true
     apps:
       airfryer:
-        airfryer_ip: '192.168.29.94'
-        client_id: 'JSm/eO5J8Mt0Q6MLiSqbYw=='
-        client_secret: '0+QSOJzQEcj85/m31xaIeQ=='
+        airfryer_ip: '192.168.XXX.YYY'
+        client_id: 'CLIENTIDENDINGWITH=='
+        client_secret: 'CLIENTSECRETENDINGWITH=='
 
   # NOT REQUIRED, but strongly reccomend so that the logbook is not filled with a refresh message every 20 sec
   logbook:
